@@ -1,0 +1,7 @@
+set,training,test
+fold1,1,0.51
+fold2,1,0.54
+fold3,1,0.51
+fold4,1,0.5
+fold5,1,0.53
+ave.,1,0.52
